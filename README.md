@@ -8,8 +8,8 @@ Of course i need to know wich one are selected and prevent
 the opponent(it is a 2 player game) to select any marbles(circles here) when its not his turn.
 Any Template of a similar gui would help. 
 
-##GAME VIDEO
+## GAME VIDEO
 [Abalone_Video](https://www.youtube.com/watch?v=EqMlpFJVB7Q&t=10s)
 
-##REACH_ME
+## REACH_ME
 julruzindana@gmail.com
